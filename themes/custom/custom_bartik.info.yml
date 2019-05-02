@@ -1,0 +1,8 @@
+name: Custom Bartik
+type: theme
+description: 'This is a sub theme of Bartik'
+base theme: bartik
+core: '8.x'
+#Libraries
+libraries:
+  - custom_bartik/global-styling
