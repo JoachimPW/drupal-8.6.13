@@ -2,3 +2,10 @@ body {
     font-size: 120%;
     background-color: red:
 }
+
+.test {
+    display: inline-block;
+    width: 80%;
+    margin: 15px;
+    font-size: 18px;
+}
